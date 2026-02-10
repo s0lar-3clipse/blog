@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Blog</title>
+</head>
+
+<body style="margin: 0">
+
+    <div style="display: grid; grid-template-columns: 1fr 4fr 1fr">
+
+        <!-- Left (1 part) -->
+        <div style="background: lightgrey; height: 100vh">
+
+            <div>
+                <a href="index.html">Home</a>
+            </div>
+
+            <br />
+
+            <div>
+                <a href="blog/how-we-are-turning-blue.html">How We Are Turning Blue</a>
+
+                <br />
+
+                <a href="blog/why-is-green-a-color.html">Why Is Green A Color?</a>
+            </div>
+        </div>
+
+        <!-- Middle (4 parts) -->
+        <div style="height: 100vh">
+
+            <h1>My Blog</h1>
+            <p>This is a paragraph.</p>
+
+            <br />
+
+            <p>(now at <b>https://blog.n0v4.space/ & https://blog.n0v4.space/index.html</b>)</p>
+
+        </div>
+
+        <!-- Right (1 part) -->
+        <div style="background: lightgrey; height: 100vh">
+        </div>
+
+    </div>
+
+</body>
+
+</html>
